@@ -1,0 +1,13 @@
+name: DreamSkip
+version: '1.0-1.21.1'
+main: wolfwriter.dreamskip.DreamSkip
+api-version: '1.21.1'
+prefix: [ DreamSkip ]
+authors: [ Wolfwriter ]
+description: P
+commands:
+  sleep:
+     permission: sleep.use
+permissions:
+    sleep.use:
+      default: op
